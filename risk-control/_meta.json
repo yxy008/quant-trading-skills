@@ -1,0 +1,6 @@
+{
+  "name": "risk-control",
+  "version": "1.0.0",
+  "description": "风控系统 - 事前/事中/事后三层风控体系",
+  "author": "quant-agent"
+}

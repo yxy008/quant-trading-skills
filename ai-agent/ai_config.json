@@ -1,0 +1,8 @@
+{
+  "api_base": "",
+  "api_key": "",
+  "model": "",
+  "enabled": true,
+  "max_tokens": 2000,
+  "temperature": 0.3
+}

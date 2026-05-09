@@ -1,0 +1,6 @@
+{
+  "name": "data-quality",
+  "version": "1.0.0",
+  "description": "数据质量检查 - 缺失值/异常值/停牌/一致性校验",
+  "author": "quant-agent"
+}

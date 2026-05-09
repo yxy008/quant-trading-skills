@@ -1,0 +1,6 @@
+{
+  "name": "alert-engine",
+  "version": "1.0.0",
+  "description": "智能预警规则引擎 - 自定义规则定义、多条件组合、规则回测",
+  "author": "quant-agent"
+}
