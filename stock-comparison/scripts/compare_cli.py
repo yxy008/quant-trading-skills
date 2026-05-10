@@ -59,7 +59,7 @@ def get_stock_kline_returns(symbol, days=60):
     df = get_stock_kline(symbol, days=days + 10)
 
     if df is not None and not df.empty:
-        close = df['close']
+        close = df['收盘']
         returns = close.pct_change().dropna()
 
         ret_5d = (float(close.iloc[-1]) / float(close.iloc[-6]) - 1) * 100 if len(close) >= 6 else None
